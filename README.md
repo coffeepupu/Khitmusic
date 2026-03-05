@@ -2,7 +2,7 @@
     ─「 KHIT ‹𝟹 」─
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑡𝑜+𝑆𝑎𝑛𝑦𝑎+𝑏𝑜𝑡+𝑟𝑒𝑝𝑜+;ㅤ+𝑀𝑜𝑠𝑡+𝑎𝑑𝑣𝑎𝑛𝑐𝑒+𝑀𝑢𝑠𝑖𝑐/𝑀𝑎𝑛𝑎𝑔𝑒𝑚𝑒𝑛𝑡+𝑏𝑜𝑡+;𝑀𝑎𝑑𝑒+𝑏𝑦+~+𝑆𝑡𝑎𝑟𝑘)](https://github.com/khithlainhtet/khitmusic)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑡𝑜+KHIT+𝑏𝑜𝑡+𝑟𝑒𝑝𝑜+HT+𝑀𝑜𝑠𝑡+𝑎𝑑𝑣𝑎𝑛𝑐𝑒+𝑀𝑢𝑠𝑖𝑐/𝑀𝑎𝑛𝑎𝑔𝑒𝑚𝑒𝑛𝑡+𝑏𝑜𝑡+;𝑀𝑎𝑑𝑒+𝑏𝑦+~+KhitHlainHtet)](https://github.com/khithlainhtet/khitmusic)
 
 
 
