@@ -22,7 +22,7 @@ async def must_join_channel(app: Client, msg: Message):
                 link = chat_info.invite_link
             try:
                 await msg.reply_photo(
-                    photo="https://telegra.ph/file/d24262661dda3f1832290.jpg", caption=f"๏ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ʏᴏᴜ'ᴠᴇ ɴᴏᴛ ᴊᴏɪɴᴇᴅ [๏sᴜᴘᴘᴏʀᴛ๏]({link}) ʏᴇᴛ, ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ᴊᴏɪɴ [๏sᴜᴘᴘᴏʀᴛ๏]({link}) ᴀɴᴅ sᴛᴀʀᴛ ᴍᴇ ᴀɢᴀɪɴ ! ",
+                    photo="https://files.catbox.moe/ffsk8y.jpg", caption=f"๏ ကျွန်ုပ်တို့၏ Database အရ သင်သည်  [๏sᴜᴘᴘᴏʀᴛ๏]({link}) ကို မjoin ရသေးပါ!, Bot ကို ဆက်လက်အသုံးပြုနိုင်ရန် [๏sᴜᴘᴘᴏʀᴛ๏]({link})ကို joinပေးပြီးမှ /start ကို ပြန်နှိပ်ပေးပါ။  ",
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
